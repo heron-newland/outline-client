@@ -43,3 +43,9 @@ License
 This code (except MurmurHash2) is under BSD license. See LICENSE file.
 
 See murmur2/README for info on MurmurHash2.
+
+
+Showing Recent Messages
+Unable to resolve build file: XCBCore.BuildFile (The workspace has a reference to a missing target with GUID 'ab717c8255399e047cd0ed2b3191febb02824adaa41b81c5fa3166fb4a37dc45')
+
+
